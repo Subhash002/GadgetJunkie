@@ -56,69 +56,6 @@ To get started with the GadgetJunkie app, follow these steps:
 
 The project's folder structure is organized as follows:
 
-
-Apologies for that oversight. Here's the complete content in Markdown format for your README.md:
-
-markdown
-Copy code
-# GadgetJunkie MERN Stack eCommerce App
-
-Welcome to the GadgetJunkie project! This is a full-fledged eCommerce shop built using the MERN stack (MongoDB, Express, React, and Node.js) along with Redux Toolkit for state management. We will start building this app from scratch, guiding you through setting up the server, modeling data, creating a MongoDB database, seeding data, creating the user interface, managing state with Redux, implementing authentication using JWT, integrating payment with PayPal, and much more.
-
-## Features
-
-The GadgetJunkie platform that we will be building will include the following features:
-
-- Full-featured shopping cart with quantity
-- Product reviews and ratings
-- Top products carousel
-- Product pagination
-- Product search feature
-- User profile with orders
-- Admin product management
-- Admin user management
-- Admin Order details page
-- Mark orders as delivered option
-- Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
-- Custom database seeder script
-
-## Tech Stack
-
-The GadgetJunkie app is built using the following technologies:
-
-### Backend
-
-- Node.js with Express as the server framework
-- MongoDB for the database with Mongoose as the ODM
-- JWT authentication (JSON web tokens) with HTTP-Only cookie
-- bcryptjs for password hashing
-- Multer for handling file uploads
-- Colors for console log styling
-
-### Frontend
-
-- React with functional components & hooks
-- React router for client-side routing
-- React-Bootstrap UI library
-- Redux Toolkit for state management
-- Axios for handling HTTP requests
-- @paypal/react-paypal-js for PayPal integration
-- Various testing libraries for testing components
-
-## Getting Started
-
-To get started with the GadgetJunkie app, follow these steps:
-
-1. Clone the repository.
-2. Set up the backend server using Node.js and MongoDB.
-3. Install frontend dependencies using npm.
-4. Start the development server for both backend and frontend.
-
-## Folder Structure
-
-The project's folder structure is organized as follows:
-
 GadgetJunkie/
 |-- backend/
 | |-- controllers/
