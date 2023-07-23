@@ -24,7 +24,6 @@ dist/
 logs/
 
 # Dependency lock files
-package-lock.json
 yarn.lock
 
 # Compiled output, binaries, and build artifacts
