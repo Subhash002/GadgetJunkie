@@ -2,6 +2,9 @@
 
 Welcome to the GadgetJunkie project! This is a full-fledged eCommerce shop built using the MERN stack (MongoDB, Express, React, and Node.js) along with Redux Toolkit for state management. We will start building this app from scratch, guiding you through setting up the server, modeling data, creating a MongoDB database, seeding data, creating the user interface, managing state with Redux, implementing authentication using JWT, integrating payment with PayPal, and much more. This site is live on https://gadgetjunkie.onrender.com and deployment is done with with the help of __render__.
 
+
+__Check out the project showcase video [here](https://www.youtube.com/watch?v=your_video_id). Click the link to watch the video and get a glimpse of the project in action.__
+
 ## Features
 
 The GadgetJunkie platform that we will be building will include the following features:
