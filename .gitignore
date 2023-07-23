@@ -1,0 +1,57 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# React / Frontend
+build/
+dist/
+*.env.local
+*.env.production
+*.env.development
+
+# Backend / Express / Server
+*.env
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# Logs and debugging files
+*.log
+*.log.*
+logs/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Compiled output, binaries, and build artifacts
+*.class
+*.o
+*.pyc
+*.exe
+*.dll
+*.so
+*.out
+*.jar
+/dist/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.psql
+*.pgsql
+
+# Mac specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.code-workspace
