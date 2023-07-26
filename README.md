@@ -7,7 +7,7 @@ __Check out the project showcase video [here](https://www.youtube.com/watch?v=yo
 
 Admin User Creds - anwesh@gmail.com / 1234
 
-PN : **Due to free tier in render, there is no disk facility available and with admin mode when we are uploading images we are not able to see that but this is working fine with the local**
+PN : **Due to free tier in render, there is no disk facility available and with admin mode when we are uploading images we are not able to see that but this is working fine with the local**. Also the pagination is set to 6 in env variable which means pagination will show when we will upload image more than 6 which is valid for entire application.
 
 ## Features
 
