@@ -7,6 +7,8 @@ __Check out the project showcase video [here](https://www.youtube.com/watch?v=yo
 
 Admin User Creds - anwesh@gmail.com / 1234
 
+PN : **Due to free tier in render, there is no disk facility available and with admin mode when we are uploading images we are not able to see that but this is working fine with the local**
+
 ## Features
 
 The GadgetJunkie platform that we will be building will include the following features:
