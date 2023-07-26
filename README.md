@@ -5,6 +5,8 @@ Welcome to the GadgetJunkie project! This is a full-fledged eCommerce shop built
 
 __Check out the project showcase video [here](https://www.youtube.com/watch?v=your_video_id). Click the link to watch the video and get a glimpse of the project in action.__
 
+Admin User Creds - anwesh@gmail.com / 1234
+
 ## Features
 
 The GadgetJunkie platform that we will be building will include the following features:
